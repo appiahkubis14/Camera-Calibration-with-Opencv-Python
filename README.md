@@ -44,4 +44,4 @@ To perform camera calibration, you will need a series of images featuring a chec
 2. **Install Required Libraries**:
    ```bash
    pip install opencv-python numpy
-![download](https://github.com/user-attachments/assets/73d52384-f7fe-46ec-89d1-e398b59a73bf){: width="400" height="300"}
+![download](https://github.com/user-attachments/assets/73d52384-f7fe-46ec-89d1-e398b59a73bf)
